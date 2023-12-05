@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JetSubmissionApp</string>
+    <string name="member_image">Member Image</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="back">Back</string>
+    <string name="photo">Photo</string>
+    <string name="about_name">Ernest Widjaja</string>
+    <string name="about_email">ernestwidjaja0@gmail.com</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Member...</string>
+    <string name="subscriber">%1$s subscriber</string>
+    <string name="videos">%1$s videos</string>
+    <string name="views">%1$s views</string>
+    <string name="statistic">Statistic</string>
+    <string name="description">Description</string>
+    <string name="agency">Agency : %1$s</string>
+    <string name="group">Group : %1$s</string>
+    <string name="status_inactive">Status : Inactive</string>
+    <string name="status_active">Status : Active</string>
+    <string name="profile">Profile</string>
+</resources>
