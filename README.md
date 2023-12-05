@@ -1,5 +1,5 @@
 # HoloMemberApp
-This application is a submission for Dicoding Android Intermediate.
+This application is a submission for Dicoding Android Jetpack Compose.
 Using Holodex API https://docs.holodex.net/ to show Holo member
 
 ## Features
